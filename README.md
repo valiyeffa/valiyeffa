@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Firuza 👋
 
-<!--
-**valiyeffa/valiyeffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning new web development technologies.
+- 📫 How to reach me: [firuzeveliyeva2@gmail.com](mailto:firuzeveliyeva2@gmail.com)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:**  HTML, CSS, SASS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Redux, Bootstrap
+- **Tools:** Git, BUN, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Valieff's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/firuzeveliyeva2)
+
+## 🔗 Links
+- [Projects](https://github.com/valiyeffa?tab=repositories)
