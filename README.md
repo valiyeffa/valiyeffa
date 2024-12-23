@@ -11,9 +11,3 @@
 
 ## 📈 GitHub Stats
 ![Valieff's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-- [LinkedIn]([www.linkedin.com/in/firuzeveliyeva2](www.linkedin.com/in/firuzeveliyeva2))
-
-## 🔗 Links
-- [Projects](https://github.com/valiyeffa?tab=repositories)
