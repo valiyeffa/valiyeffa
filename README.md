@@ -5,8 +5,8 @@
 - 📫 How to reach me: [firuzeveliyeva2@gmail.com](mailto:firuzeveliyeva2@gmail.com)
 
 ## 🛠️ Skills
-- **Languages:**  HTML, CSS, SASS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Redux, Bootstrap
+- **Languages:**  HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Redux, Bootstrap, SASS
 - **Tools:** Git, BUN, VS Code
 
 ## 📈 GitHub Stats
