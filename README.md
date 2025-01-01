@@ -9,5 +9,3 @@
 - **Frameworks/Libraries:** React, Redux, Bootstrap, SASS
 - **Tools:** Git, BUN, VS Code
 
-## 📈 GitHub Stats
-![Valieff's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical)
