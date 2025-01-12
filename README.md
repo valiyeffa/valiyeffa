@@ -6,6 +6,6 @@
 
 ## 🛠️ Skills
 - **Languages:**  HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Redux, Bootstrap, SASS
-- **Tools:** Git, BUN, VS Code
+- **Frameworks/Libraries:** React, Redux, Bootstrap, SASS, AntDesign
+- **Tools:** Git, BUN, VS Code, Figma
 
