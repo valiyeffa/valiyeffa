@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-![Firuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=firuza&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firuza&layout=compact&theme=radical)  
+![Firuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valiyeffa&layout=compact&theme=radical)  
 
 ---
 
