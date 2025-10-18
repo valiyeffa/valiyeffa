@@ -24,10 +24,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Restfox](https://img.shields.io/badge/-Restfox-FFB400?style=flat&logo=firefoxbrowser&logoColor=black)
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Firuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valiyeffa&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&theme=radical" alt="Firuza's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valiyeffa&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiyeffa&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+</p>
 ---
 
 ## ✨ Fun Facts  
