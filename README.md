@@ -1,12 +1,12 @@
 # Hi there, I'm Firuza! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&lines=Frontend+Developer;React+%26+Angular+Enthusiast;Always+Learning+New+Things)
 
 ---
 
 ## 🚀 About Me  
 💻 Passionate about building **interactive and beautiful web applications**.  
-🌱 Currently exploring **modern web technologies** & improving my React skills.  
+🌱 Currently exploring **modern web technologies** & improving my React and Angular skills.  
 🎯 Goal: Becoming a **middle developer** in the near future.  
 📫 Reach me at: **[firuzeveliyeva2@gmail.com](mailto:firuzeveliyeva2@gmail.com)**  
 
