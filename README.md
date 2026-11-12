@@ -1,6 +1,6 @@
 # Hi there, I'm Firuza! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&lines=Frontend+Developer;React+%26+Angular+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&lines=Frontend+Focused+FullStack+Developer;React+%26+Angular+%26+C#+%26+ASP.NET+Enthusiast;Always+Learning+New+Things)
 
 ---
 
