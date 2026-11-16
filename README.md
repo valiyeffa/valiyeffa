@@ -1,6 +1,6 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Firuza%20Aliyeva&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=%E2%9C%A7%20frontend%20developer%20%E2%80%A2%20pixels%20%26%20pretty%20UIs%20%E2%9C%A7&descSize=18&descAlignY=62" width="100%" />
+ <iframe src="https://giphy.com/embed/dlMIwDQAxXn1K" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-project-dlMIwDQAxXn1K">via GIPHY</a></p>
 </p>
 
 <p align="center">
@@ -30,11 +30,10 @@ const firuza = {
   role: "Frontend Developer 👩‍💻",
   location: "Baku, Azerbaijan 🇦🇿",
   experience: "almost 2 years",
-  currentlyAt: "Uniser Group",
   mainStack: ["Angular", "React", "TypeScript"],
   desktop: "Electron.js (macOS & Windows)",
   learning: ["C#", "ASP.NET Core", "EF Core", "PostgreSQL"],
-  goal: "Full-Stack Developer 🚀",
+  goal: "Senior Full-Stack Developer 🚀",
   fuelledBy: ["music 🎧", "coffee ☕", "cats 🐱"],
 };
 ```
