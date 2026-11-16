@@ -25,19 +25,15 @@
 <tr>
 <td width="55%">
 
-```ts
-const firuza = {
-  role: "Frontend-focused Full-Stack Developer 👩‍💻",
-  location: "Baku, Azerbaijan 🇦🇿",
-  experience: "almost 2 years",
-  currently: "Frontend Developer @ Uniser Group",
-  mainStack: ["Angular", "React", "TypeScript"],
-  desktop: "Electron.js (macOS & Windows)",
-  learning: ["C#", "ASP.NET Core", "EF Core", "PostgreSQL"],
-  goal: "Senior Full-Stack Developer 🚀",
-  fuelledBy: ["music 🎧", "coffee ☕", "cats 🐱"],
-};
-```
+<br>
+
+&nbsp;👩‍💻 &nbsp;**Frontend-focused Full-Stack Developer** with almost 2 years of experience<br><br>
+&nbsp;🏢 &nbsp;Currently Frontend Developer at **Uniser Group**<br><br>
+&nbsp;📍 &nbsp;Based in **Baku, Azerbaijan** 🇦🇿<br><br>
+&nbsp;🖥️ &nbsp;Built **Electron.js** desktop apps for macOS & Windows<br><br>
+&nbsp;🌱 &nbsp;Learning **C# · ASP.NET Core · EF Core · PostgreSQL**<br><br>
+&nbsp;🚀 &nbsp;Goal: **Senior Full-Stack Developer**<br><br>
+&nbsp;💖 &nbsp;Fuelled by music 🎧 coffee ☕ and cats 🐱
 
 </td>
 <td width="45%" align="center">
@@ -53,31 +49,57 @@ const firuza = {
   🖥️ ERP platform, healthcare dashboard, e-commerce, Electron desktop app
 </p>
 
-<!-- ═════════════ TERMINAL ═════════════ -->
-<h2 align="center">✧*✧:* 💻 Terminal 💻 *:✧*:✧</h2>
-
-```bash
-firuza@baku:~$ whoami
-> frontend developer who loves clean & aesthetic UI
-
-firuza@baku:~$ cat skills.txt
-> frontend  ░ Angular · React · Next.js · TypeScript · RxJS · Redux Toolkit · RTK Query
-> styling   ░ HTML · CSS · SASS · Tailwind · Bootstrap · Ant Design
-> forms     ░ Formik · Yup · Reactive & Template-driven forms
-> mobile    ░ Ionic · Electron
-> backend   ░ C# · ASP.NET Core · EF Core · SQL Server · PostgreSQL  (learning 🌱)
-> tools     ░ Git · GitHub · Postman · Swagger · Bun · VS Code · Figma
-
-firuza@baku:~$ ./start --mood
-> 🎧 music on · ☕ coffee ready · 🐱 cat nearby · ✨ let's code
-```
-
 <!-- ═════════════ TECH ICONS ═════════════ -->
 <h2 align="center">✧:*✧･:* 🌸 Tech Stack 🌸 *:✧*:✧</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,ionic,electron&theme=dark&perline=13" /><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github,postman,swagger,bun,vscode,figma&theme=dark&perline=10" />
+  <sub><b>FRONTEND</b></sub><br>
+  <img src="https://img.shields.io/badge/Angular-0d0d0d?style=for-the-badge&logo=angular&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F4C2CF" />
+</p>
+
+<p align="center">
+  <sub><b>STYLING</b></sub><br>
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Sass-0d0d0d?style=for-the-badge&logo=sass&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Ant_Design-0d0d0d?style=for-the-badge&logo=antdesign&logoColor=F4C2CF" />
+</p>
+
+<p align="center">
+  <sub><b>STATE & DATA</b></sub><br>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0d0d0d?style=for-the-badge&logo=redux&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/RxJS-0d0d0d?style=for-the-badge&logo=reactivex&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Formik-0d0d0d?style=for-the-badge&logo=formik&logoColor=F4C2CF" />
+</p>
+
+<p align="center">
+  <sub><b>DESKTOP & MOBILE</b></sub><br>
+  <img src="https://img.shields.io/badge/Electron-0d0d0d?style=for-the-badge&logo=electron&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Ionic-0d0d0d?style=for-the-badge&logo=ionic&logoColor=F4C2CF" />
+</p>
+
+<p align="center">
+  <sub><b>BACKEND (LEARNING 🌱)</b></sub><br>
+  <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/SQL_Server-0d0d0d?style=for-the-badge&logo=microsoftsqlserver&logoColor=F4C2CF" />
+</p>
+
+<p align="center">
+  <sub><b>TOOLS</b></sub><br>
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Swagger-0d0d0d?style=for-the-badge&logo=swagger&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Bun-0d0d0d?style=for-the-badge&logo=bun&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=F4C2CF" />
 </p>
 
 <!-- ═════════════ STATS ═════════════ -->
