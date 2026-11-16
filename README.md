@@ -1,6 +1,6 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img src="https://giphy.com/embed/dlMIwDQAxXn1K" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%20there%2C%20I'm%20Firuza!&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Growing%20into%20Full-Stack&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
