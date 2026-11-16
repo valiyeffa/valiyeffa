@@ -19,7 +19,7 @@
 </p>
 
 <!-- ═════════════ ABOUT ═════════════ -->
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* 🎀 about me 🎀 *:･ﾟ✧*:･ﾟ✧</h2>
+<h2 align="center">✧*✧:* 🎀 About Me 🎀 *:✧*:✧</h2>
 
 <table align="center">
 <tr>
@@ -41,19 +41,19 @@ const firuza = {
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+ <img src="https://media.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" width="100%" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  🏢 Building Angular apps at <b>Uniser Group</b> &nbsp;•&nbsp;
+  🏢 Building React Angular apps &nbsp;•&nbsp;
   🖥️ ERP platform, healthcare dashboard, e-commerce, Electron desktop app
 </p>
 
 <!-- ═════════════ TERMINAL ═════════════ -->
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* 💻 terminal 💻 *:･ﾟ✧*:･ﾟ✧</h2>
+<h2 align="center">✧*✧:* 💻 Terminal 💻 *:✧*:✧</h2>
 
 ```bash
 firuza@baku:~$ whoami
@@ -91,7 +91,7 @@ firuza@baku:~$ ./start --mood
 </p>
 
 <!-- ═════════════ FUN FACTS ═════════════ -->
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* ☕ fun facts ☕ *:･ﾟ✧*:･ﾟ✧</h2>
+<h2 align="center">✧:*✧･* ☕ Fun Facts ☕ *:✧*:✧</h2>
 
 <table align="center">
 <tr>
@@ -110,4 +110,4 @@ firuza@baku:~$ ./start --mood
   ⭐ <b><i>"Code is like humor. When you have to explain it, it’s bad."</i></b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=thanks%20for%20visiting%20%F0%9F%92%96&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks%20for%20visiting%20%F0%9F%92%96&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
