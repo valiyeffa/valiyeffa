@@ -74,6 +74,7 @@
 <p align="center">
   <sub><b>STATE & DATA</b></sub><br>
   <img src="https://img.shields.io/badge/Redux_Toolkit-0d0d0d?style=for-the-badge&logo=redux&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/RTK_Query-0d0d0d?style=for-the-badge&logo=redux&logoColor=F4C2CF" />
   <img src="https://img.shields.io/badge/RxJS-0d0d0d?style=for-the-badge&logo=reactivex&logoColor=F4C2CF" />
   <img src="https://img.shields.io/badge/Formik-0d0d0d?style=for-the-badge&logo=formik&logoColor=F4C2CF" />
 </p>
@@ -129,8 +130,5 @@
 </p>
 
 <!-- ═════════════ FOOTER ═════════════ -->
-<p align="center">
-  ⭐ <b><i>"Code is like humor. When you have to explain it, it’s bad."</i></b>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4c2cf,55:2b1a20,100:000000&height=140&section=footer&text=Thanks%20for%20visiting%20%F0%9F%A4%8D&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4c2cf,55:2b1a20,100:000000&height=140&section=footer&text=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
