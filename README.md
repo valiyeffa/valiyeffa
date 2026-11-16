@@ -41,7 +41,6 @@ const firuza = {
 </td>
 <td width="45%" align="center">
 
-<!-- 👇 BURA ÖZ GIF LİNKİNİ YAPIŞDIR (aşağıda izah var) -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
@@ -73,7 +72,7 @@ firuza@baku:~$ ./start --mood
 ```
 
 <!-- ═════════════ TECH ICONS ═════════════ -->
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* 🌸 tech stack 🌸 *:･ﾟ✧*:･ﾟ✧</h2>
+<h2 align="center">✧:*✧･:* 🌸 Tech Stack 🌸 *:✧*:✧</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,ionic,electron&theme=dark&perline=13" /><br>
@@ -81,12 +80,7 @@ firuza@baku:~$ ./start --mood
 </p>
 
 <!-- ═════════════ STATS ═════════════ -->
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* 📊 github stats 📊 *:･ﾟ✧*:･ﾟ✧</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=valiyeffa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=e6e6e6&ring_color=FF69B4&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiyeffa&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=e6e6e6" />
-</p>
+<h2 align="center">✧* 📊 Github Stats 📊 *✧</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=valiyeffa&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=e6e6e6&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="60%" />
