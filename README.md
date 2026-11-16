@@ -1,6 +1,6 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
- <iframe src="https://giphy.com/embed/dlMIwDQAxXn1K" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-project-dlMIwDQAxXn1K">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/dlMIwDQAxXn1K" width="100%" />
 </p>
 
 <p align="center">
