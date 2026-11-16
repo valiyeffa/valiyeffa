@@ -108,7 +108,7 @@
 
 <!-- ═════════════ FUN FACTS ═════════════ -->
 <h2 align="center">✧:*✧･* ☕ Fun Facts ☕ *:✧*:✧</h2>
-
+ 
 <table align="center">
 <tr>
 <td align="center" width="33%">🎧<br><b>Music</b><br><sub>I listen to music like it’s part of my job</sub></td>
@@ -116,11 +116,14 @@
 <td align="center" width="33%">🐱<br><b>Cats</b><br><sub>Cats make me happy, code makes me happier</sub></td>
 </tr>
 </table>
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312ix5e6w2445ljqyr4ftnrrlame&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312ix5e6w2445ljqyr4ftnrrlame&cover_image=false&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&mode=light&bar_color=9b7d87&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 </p>
-
 <!-- ═════════════ FOOTER ═════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4c2cf,55:2b1a20,100:000000&height=140&section=footer&text=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
