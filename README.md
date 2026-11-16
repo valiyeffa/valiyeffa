@@ -25,14 +25,12 @@
 <tr>
 <td width="55%">
 
-<br>
 
-&nbsp;👩‍💻 &nbsp;**Frontend-focused Full-Stack Developer** with almost 2 years of experience<br><br>
-&nbsp;🏢 &nbsp;Currently Frontend Developer at **Uniser Group**<br><br>
-&nbsp;📍 &nbsp;Based in **Baku, Azerbaijan** 🇦🇿<br><br>
-&nbsp;🖥️ &nbsp;Built **Electron.js** desktop apps for macOS & Windows<br><br>
-&nbsp;🌱 &nbsp;Learning **C# · ASP.NET Core · EF Core · PostgreSQL**<br><br>
-&nbsp;🚀 &nbsp;Goal: **Senior Full-Stack Developer**<br><br>
+&nbsp;👩‍💻 &nbsp;**Frontend-focused Full-Stack Developer** with almost 2 years of experience<br>
+&nbsp;📍 &nbsp;Based in **Baku, Azerbaijan** 🇦🇿<br>
+&nbsp;🖥️ &nbsp;Built **Electron.js** desktop apps for macOS & Windows<br>
+&nbsp;🌱 &nbsp;Learning **C# · ASP.NET Core · EF Core · PostgreSQL**<br>
+&nbsp;🚀 &nbsp;Goal: **Senior Full-Stack Developer**<br>
 &nbsp;💖 &nbsp;Fuelled by music 🎧 coffee ☕ and cats 🐱
 
 </td>
