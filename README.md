@@ -24,15 +24,14 @@
 <table align="center">
 <tr>
 <td width="55%">
-
-
-&nbsp;👩‍💻 &nbsp;**Frontend-focused Full-Stack Developer** with almost 2 years of experience<br>
-&nbsp;📍 &nbsp;Based in **Baku, Azerbaijan** 🇦🇿<br>
-&nbsp;🖥️ &nbsp;Built **Electron.js** desktop apps for macOS & Windows<br>
-&nbsp;🌱 &nbsp;Learning **C# · ASP.NET Core · EF Core · PostgreSQL**<br>
-&nbsp;🚀 &nbsp;Goal: **Senior Full-Stack Developer**<br>
-&nbsp;💖 &nbsp;Fuelled by music 🎧 coffee ☕ and cats 🐱
-
+<br>
+  
+&nbsp;👩‍💻 &nbsp;**Frontend-focused Full-Stack Developer** with almost 2 years of experience<br><br>
+&nbsp;📍 &nbsp;Based in **Baku, Azerbaijan** 🇦🇿<br><br>
+&nbsp;🖥️ &nbsp;Building responsive **web applications**: ERP platform, healthcare dashboard & e-commerce<br><br>
+&nbsp;🌱 &nbsp;Deepening my backend skills with **C# · ASP.NET Core · EF Core · PostgreSQL**<br><br>
+&nbsp;🚀 &nbsp;Goal: **Senior Full-Stack Developer**<br><br>
+&nbsp;💖 &nbsp;Fuelled by music 🎧 and code 🖥️
 </td>
 <td width="45%" align="center">
 
@@ -42,13 +41,8 @@
 </tr>
 </table>
 
-<p align="center">
-  🏢 Building Angular &amp; React apps &nbsp;•&nbsp;
-  🖥️ ERP platform, healthcare dashboard, e-commerce, Electron desktop app
-</p>
-
 <!-- ═════════════ TECH ICONS ═════════════ -->
-<h2 align="center">✧:*✧･:* 🌸 Tech Stack 🌸 *:✧*:✧</h2>
+<h2 align="center">✧:*✧･:* Tech Stack *:✧*:✧</h2>
 
 <p align="center">
   <sub><b>FRONTEND</b></sub><br>
