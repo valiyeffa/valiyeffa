@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=F4C2CF&center=true&vCenter=true&width=700&lines=%3E+Frontend-focused+Full-Stack+Developer;%3E+Angular+%C2%B7+React+%C2%B7+TypeScript;%3E+Growing+with+C%23+%26+.NET;%3E+Making+it+work%2C+making+it+pretty+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=F4C2CF&center=true&vCenter=true&width=700&lines=%3E+Frontend-focused+Full-Stack+Developer;%3E+React+%C2%B7+Angular+%C2%B7+TypeScript;%3E+Growing+with+C%23+%26+.NET;%3E+Making+it+work%2C+making+it+pretty+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
