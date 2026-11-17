@@ -67,6 +67,8 @@
   <sub><b>STATE & DATA</b></sub><br>
   <img src="https://img.shields.io/badge/Redux_Toolkit-0d0d0d?style=for-the-badge&logo=redux&logoColor=F4C2CF" />
   <img src="https://img.shields.io/badge/RTK_Query-0d0d0d?style=for-the-badge&logo=redux&logoColor=F4C2CF" />
+  <img src="https://img.shields.io/badge/Zustand-0d0d0d?style=for-the-badge&logoColor=F4C2CF" />
+  <!-- <img src="https://img.shields.io/badge/%F0%9F%90%BB_Zustand-0d0d0d?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/RxJS-0d0d0d?style=for-the-badge&logo=reactivex&logoColor=F4C2CF" />
   <img src="https://img.shields.io/badge/Formik-0d0d0d?style=for-the-badge&logo=formik&logoColor=F4C2CF" />
 </p>
